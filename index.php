@@ -29,4 +29,6 @@ $router->add('/.*', function () {
 });
 
 // EJECUTAR RUTAS
-$router->route();
+// $router->route();
+
+//actualizacion
